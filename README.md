@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TrastoRacing
-- 👀 I’m interested in ... Android Development
-- 🌱 I’m currently learning ... Kotlin
+- 👀 I’m interested in ... IT, selfhost and all tech related
+- 🌱 I’m currently learning ... how to selfhost everything
 
 <!---
 TrastoRacing/TrastoRacing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
